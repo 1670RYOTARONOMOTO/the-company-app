@@ -27,6 +27,7 @@
                         <button type="submit" class="btn btn-primary w-100" name="btn_login">Login</button>
                     </form>
                     <p class="text-center mt-3 small"><a href="register.php">Create Account</a></p>
+                    <p class="text-center mt-3 small"><a href="register.php">The company App</a></p>
                 </div>
             </div>
         </div>
